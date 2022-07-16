@@ -3,7 +3,7 @@
 
 ## Milk price predictions ##
 
-This repository contains 4 files:
+This repository contains 4 files inside of the folder pipeline:
 
 **1 - *MP_Preprocessing.py***
 
