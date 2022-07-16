@@ -17,7 +17,7 @@ This code are using 3 datasets located in data folder inside of pipeline folder 
 The *MP_Training.py* is the training model that it will predict the milk price in Chile.It was separated the training coding from the prediction code. 
 
 For serializing the code was used *Pickle*, it is used to serializing and de-serializing a Python object structure. In which python object is converted into the byte stream.dump() method dumps the object into the file specified in the arguments.
-The model was saved in a file named *linearRegression.pkl*, it can be used by the server. To deploy the model wil be using Flask as an API. Flask is a web service development framework, it supports extensions that can add application features as if they were implemented in Flask itself.
+The model was saved in a file named *linearRegression.pkl* (all pkls files are located in pipeline/serialization folder above), it can be used by the server. To deploy the model wil be using Flask as an API. Flask is a web service development framework, it supports extensions that can add application features as if they were implemented in Flask itself.
 
 The figure below shows the steps followed in this MLE challenge.
 
