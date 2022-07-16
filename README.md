@@ -31,6 +31,7 @@ The *MP_Prediction_API.py* is going to request the server for predictions. To do
 ______________________________________________________________________________________________________________________________________________________________________
 
 **1 - run_prep_n_Training.py for run preprocessing and training modules all together**
-**2 - run_Prediction_API.py
+
+**2 - run_Prediction_API.py**
 
 PS: run_prep_n_Training.py is serialized, so they can also run separately.
