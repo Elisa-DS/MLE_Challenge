@@ -13,7 +13,7 @@ This repository contains 4 files inside of the folder pipeline:
 
 **3 - *run_Prediction_API.py***
 
-This code are using 3 datasets located in data folder above (*banco_central.csv*, *precio_leche.csv*, *preciptaciones.csv*). In *MP_Preprocessing.py* file contain all the preprocessing/cleaning and merge of these 3 datasets mentioned above. 
+This code are using 3 datasets located in data folder inside of pipeline folder above (*banco_central.csv*, *precio_leche.csv*, *preciptaciones.csv*). In *MP_Preprocessing.py* file contain all the preprocessing/cleaning and merge of these 3 datasets mentioned above. 
 The *MP_Training.py* is the training model that it will predict the milk price in Chile.It was separated the training coding from the prediction code. 
 
 For serializing the code was used *Pickle*, it is used to serializing and de-serializing a Python object structure. In which python object is converted into the byte stream.dump() method dumps the object into the file specified in the arguments.
