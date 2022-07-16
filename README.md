@@ -34,4 +34,4 @@ ________________________________________________________________________________
 
 **2 - run_Prediction_API.py**
 
-PS: run_prep_n_Training.py is serialized, so they can also run separately.
+PS: run_prep_n_Training.py is serialized, so they can also running separately.
